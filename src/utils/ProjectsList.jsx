@@ -2,8 +2,7 @@ import React from "react";
 import {
   CovidProject,
   PortfolioProject,
-  MulticodeProject,
-  vrapverse,
+  MulticodeProject
 } from "../assets/projects";
 import ProjectImage from "../components/miscellaneous/ProjectImage";
 
@@ -40,7 +39,7 @@ const ProjectsList = [
       "Deployed on Azure"
       
     ],
-    media: <ProjectImage src={vrapverse} alt="Vrapverse" />,
+    media: <ProjectImage src={MulticodeProject} alt="Vrapverse" />,
     live: "https://vrapverse.in"
   },
 ];
