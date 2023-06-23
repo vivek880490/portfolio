@@ -3,7 +3,7 @@ import {
   CovidProject,
   PortfolioProject,
   MulticodeProject,
-  vrapverse
+  vrapverse,
 } from "../assets/projects";
 import ProjectImage from "../components/miscellaneous/ProjectImage";
 
