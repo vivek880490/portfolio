@@ -30,6 +30,18 @@ const ProjectsList = [
     live: "https://add-to-carttt.netlify.app/",
     repo: "https://github.com/vivek880490/addtocart",
   },
+  {
+    name: "Vrapverse",
+    info: [
+      "Built using Wordpress",
+      "Generated revenue using Google Adsense",
+      "10k+ unique monthly visitors",
+      "Deployed on Azure"
+      
+    ],
+    media: <ProjectImage src={vrapverse} alt="Vrapverse" />,
+    live: "https://vrapverse.in"
+  },
 ];
 
 export default ProjectsList;
